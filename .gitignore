@@ -67,3 +67,7 @@ Source/RTSProject/Plugins/RealTimeStrategy/Intermediate/
 Source/RTSProject/Saved/
 Source/RTSProject/Plugins/RealTimeStrategyTests/Binaries/
 Source/RTSProject/Plugins/RealTimeStrategyTests/Intermediate/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
